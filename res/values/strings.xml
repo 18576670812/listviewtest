@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">listviewtest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="ArrayAdapterTest">Array Adapter Test</string>
+	<string name="SimpleAdapterTest1">Simple Adapter Test1</string>
+	<string name="SimpleAdapterTest2">Simple Adapter Test2</string>
+	<string name="ExtendBaseAdapter">Extend BaseAdapter</string>
+	<string name="s_view_btn">more</string>
+</resources>
